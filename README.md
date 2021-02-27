@@ -11,7 +11,7 @@ implementation("com.squareup.moshi:moshi:<version")
     "imageFile": "account1Image",
     "accountName": "Spook",
     "description": "Spook is mean",
-    "account value"): 20000
+    "account value": 20000
 
   },
   {
