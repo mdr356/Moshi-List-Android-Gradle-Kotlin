@@ -4,7 +4,7 @@ A modern, powerful JSON library use for serialization and deserialization with l
 ## Gradle
 ```kotlin
 implementation("com.squareup.moshi:moshi:<version")
-```android
+```
 
 ## sample.json
 ```json
